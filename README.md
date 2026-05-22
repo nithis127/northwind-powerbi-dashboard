@@ -44,8 +44,8 @@ This project analyzes sales, customers, products, shipping, and employee perform
 </tr>
 
 <tr>
-<td><img src="screenshots/Overview.png" width="500"></td>
-<td><img src="screenshots/Product Analysis.png" width="500"></td>
+<td><img src="Screenshots/Overview.png" width="500"></td>
+<td><img src="Screenshots/Product Analysis.png" width="500"></td>
 </tr>
 
 <tr>
@@ -54,8 +54,8 @@ This project analyzes sales, customers, products, shipping, and employee perform
 </tr>
 
 <tr>
-<td><img src="screenshots/Customer Analysis.png" width="500"></td>
-<td><img src="screenshots/Shipping and Employee Analysis.png" width="500"></td>
+<td><img src="Screenshots/Customer Analysis.png" width="500"></td>
+<td><img src="Screenshots/Shipping and Employee Analysis.png" width="500"></td>
 </tr>
 
 </table>
